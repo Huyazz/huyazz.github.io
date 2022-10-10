@@ -37,6 +37,35 @@ Facebook
 
 
    <div style="color: white; font-size: 25px">
+        <style type="text/css">   
+
+       button {
+
+           border: none;
+
+           background: #0076ff;
+
+           border-radius: 5px;
+
+           padding: 5px;
+
+           color: #fff;
+
+           font-weight: bold;
+
+           font-size: 20px;
+
+           text-transform: uppercase;
+
+       }
+
+   </style>
+
+</head>
+
+<body>   
+
+   <button> Click me </button>
 
       
       
