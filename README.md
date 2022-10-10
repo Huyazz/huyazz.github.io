@@ -21,11 +21,27 @@ Facebook
 <h1> Láo = payy acc 😏😏 </h1>
 
 <div>
-  body {
+     <style type="text/css">
 
-          background-color: gold;
 
-      }
+
+
+{background: red url("images/small-sunflower.png") no-repeat fixed top right;}
+
+      
+
+
+
+
+
+
+
+   <div style="color: white; font-size: 25px">
+
+      
+      
+
+      
 
 
       
