@@ -21,7 +21,27 @@ Facebook:https://www.facebook.com/profile.php?id=100066421973540
 <h1> Láo = payy acc 😏😏 </h1>
 
 <div>
-     
+  <select id="sample">
+
+      <option value="https://www.facebook.com/profile.php?id=100066421973540"> Facebook </option>
+
+      <option value="https://www.tiktok.com/@toptop2711/video/7156459644821572891?_t=8WfE3SrLyfx&_r=1"> tik tok </option>
+
+   </select>
+
+   <button onclick="getValue();"> tới  </button>
+
+   <script type="text/javascript">
+
+      function getValue() {
+
+         var value = document.getElementById('sample').value;
+
+         alert(value);
+
+      }
+
+   </script>   
 
 
 
