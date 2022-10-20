@@ -44,6 +44,13 @@ liên hệ zalo: 0702366994
       }
 
    </script>   
+ <style type="text/css">
+
+      body {
+
+         background: red url("images/small-sunflower.png") no-repeat fixed top right;
+
+      }
 
 
 
