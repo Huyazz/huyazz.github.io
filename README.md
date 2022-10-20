@@ -5,7 +5,7 @@
 
 <div>
 
-<p style="font-size: 50px; color: fuchsia;"> Hacker 👑👑👑👑 </p>
+<p style="font-size: 50px; color: blue;"> Hacker 👑👑👑👑 </p>
 
 <div>
 
@@ -13,20 +13,20 @@ liên hệ zalo: 0702366994
 
 <div>
 
-Facebook
-:https://www.facebook.com/profile.php?id=100066421973540
+
+Facebook:https://www.facebook.com/profile.php?id=100066421973540
 
 <div>
 
 <h1> Láo = payy acc 😏😏 </h1>
 
 <div>
-     <style type="text/css">
+     
 
 
 
 
-{background: red url("images/small-sunflower.png") no-repeat fixed top right;}
+
 
       
 
@@ -36,37 +36,12 @@ Facebook
 
 
 
-   <div style="color: white; font-size: 25px">
-        <style type="text/css">   
-
-       button {
-
-           border: none;
-
-           background: #0076ff;
-
-           border-radius: 5px;
-
-           padding: 5px;
-
-           color: #fff;
-
-           font-weight: bold;
-
-           font-size: 20px;
-
-           text-transform: uppercase;
-
-       }
-
-   </style>
+ 
 
 
 
-<body>   
 
-   <button> tik tok</button>
-   <p> Tik tok: toptop2711 </p>![d432a6769fa60117f740e41781405a45](https://user-images.githubusercontent.com/115351102/196957127-23a86199-0071-4c04-8855-46405cfa365b.png)
+
 
    
    
