@@ -1,7 +1,7 @@
 ![tải xuống](https://user-images.githubusercontent.com/115351102/194709433-3a0f7c93-5a20-4612-9097-0e92882ff421.jpeg)![Screenshot_20221010-205014](https://user-images.githubusercontent.com/115351102/194882980-b1c58f21-f351-4da3-b028-b3b2e29f7f2f.png)
 
 <div>
- <p style="font-size: 15px; color: white;"> Web chính thức của Lương Đức Huy 
+ <p style="font-size: 15px; color: black;"> Web chính thức của Lương Đức Huy 
 
 <div>
 
@@ -44,13 +44,13 @@ liên hệ zalo: 0702366994
       }
 
    </script>   
- <style type="text/css">
+ 
 
-      body {
+     
 
-         background: red url("images/small-sunflower.png") no-repeat fixed top right;
 
-      }
+
+
 
 <div>
  <h1> gu gồ mi ni 
