@@ -1,6 +1,6 @@
 <script type="text/javascript">
 
-       alert("Chào bạn đến với lamdesv8.io");  
+       alert("Chào bạn đến với huyazz.github.io");  
 
    </script>
 
@@ -12,11 +12,11 @@
 
     <div>
 
-      <h1> ở đây chúng tôi sẽ giúp bạn với mức giá 50tr vàng or 5k ATM 
+      <h3> ở đây chúng tôi sẽ giúp bạn với mức giá 50tr vàng or 5k ATM 
 
         <div>
 
-          <h2> hãy liên hệ zalo:0702366994
+          <h3> hãy liên hệ zalo:0702366994
 
             <div> 
 
