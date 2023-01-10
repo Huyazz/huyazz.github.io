@@ -12,5 +12,3 @@ Treo theo ngày 3k/1day. (bao đậu)
 <div>
    <a href="https://www.facebook.com/profile.php?id=100083881728233"> Facebook</a>
 
-<div>
-!(https://user-images.githubusercontent.com/115351102/211571290-894d557e-35ff-4597-8130-5654b9a66653.jpg)
