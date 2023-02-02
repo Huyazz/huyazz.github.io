@@ -13,12 +13,4 @@
        alert("Chào mừng bạn đen trang web của tôi.");  
 
    </script>
-    <div>
-        <p>😏
-            <div>
-![Screenshot_20230202_175254](https://user-images.githubusercontent.com/115351102/216305872-5338b6fa-ee6c-4869-aefa-d295e9b202b1.jpg)
-<div>
-    <h3>😏
-        <div>
-![Uploading received_575741061083737.jpeg…]()
-    
+   
