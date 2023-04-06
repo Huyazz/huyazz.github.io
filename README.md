@@ -69,6 +69,27 @@
    <p> Click <b>Ẩn</b> (Biến mất) <b>Hiển thị</b> xem nội dung. </p>
 
    <script>
+      style type="text/css">
+
+      video {
+
+         max-width: 100%;
+
+         height: auto;
+
+      }
+
+   </style>
+
+</head>
+
+<body>
+
+   <video src="/1680786228185.mp4" controls> This text will be displayed if your browser does not support embedding videos. </video>
+
+</body>
+
+</html>
    
          
 
