@@ -38,7 +38,7 @@
 
       ul#demo {
 
-         max-height: 900px;
+         max-height: 100px;
 
          overflow-y: hidden;
 
@@ -88,7 +88,16 @@
 
       
 
-         elem.style.maxHeight = "90px";
+         elem.style.maxHeight = "0px";
+
+      }
+      function slideDown() {
+
+          var elem = document.getElementById("demo");
+
+       
+
+          elem.style.maxHeight = "100px";
 
       }
    
