@@ -9,17 +9,17 @@
            <div>
                    <p id="sample"> Nhận bài học quý giá 👇</p> 
 
-   <button onclick="changeContent();"> nhận quà </button>
+   <button onclick="changeContent();"> nhận bài học  </button>
 
-   
 
-   <script type="text/javascript">
+
+<script type="text/javascript">
 
        function changeContent() {
 
    	    document.getElementById("sample").innerHTML = "Có làm mới có ăn -_-";
 
-       }
+}
 <div>
        <script type="text/javascript"> 
 
