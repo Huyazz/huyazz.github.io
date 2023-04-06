@@ -13,71 +13,8 @@
 
    </script>
    
+
 <div>
-  
-
-<html>
-
-<head>
-
-   <title> Try It Yourself </title>
-
-   <style type="text/css">
-
-      ul#demo {
-
-         max-height: 100px;
-
-         overflow-y: hidden;
-
-      
-
-         /* this will animate the element for 1
-
-            second when its properties change */
-
-         transition: all 1s;
-
-      }
-
-   </style>
-
-</head>
-
-<body>
-
-   <ul id="demo">
-
-      <li>.....  </li>
-
-      <li>...... </li>
-
-      <li>..... </li>
-
-      <li> ..... </li>
-
-   </ul>
-
-   <div>
-
-       <button onclick="slideUp()"> Ẩn</button>
-
-       <button onclick="slideDown()"> Hiển thị </button>
-
-   </div>
-
-   <p> Click <b>Ẩn</b> (Biến mất) <b>Hiển thị</b> xem nội dung. </p>
-
-   <script>
-      style type="text/css">
-
-      video {
-
-         max-width: 100%;
-
-         height: auto;
-
-      }
 
    </style>
 
