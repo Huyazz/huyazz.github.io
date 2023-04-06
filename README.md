@@ -69,5 +69,37 @@
    <p> Click <b>Ẩn</b> (Biến mất) <b>Hiển thị</b> xem nội dung. </p>
 
    <script>
+      <div>
+         <DOCTYPE html>
+
+<html>
+
+<head>
+
+   <title> The filter Property </title>
+
+   <style type="text/css">
+
+      img {
+
+         filter: drop-shadow(12px 12px 16px rgb(23, 52, 89));
+
+         max-width: 100%;
+
+         height: auto;
+
+      }
+
+   </style>
+
+</head>
+
+<body>
+
+   <img src="images/city.jpg" />
+
+</body>
+
+</html>
 
       
