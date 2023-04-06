@@ -17,14 +17,10 @@
 <div>
 
    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TquZ7-QbSic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
-<body>
-
-   <video src="video.mp4" controls> This text will be displayed if your browser does not support embedding videos. </video>
-
-</body>
 
 
 <div>
