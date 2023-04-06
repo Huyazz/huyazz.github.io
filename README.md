@@ -70,33 +70,4 @@
 
    <script>
 
-      function slideUp() {
-
-         var elem = document.getElementById("demo");
-
       
-
-         elem.style.maxHeight = "0px";
-
-      }
-
-      
-
-      function slideDown() {
-
-          var elem = document.getElementById("demo");
-
-       
-
-          elem.style.maxHeight = "100px";
-
-      }
-
-   </script>
-   
-
-</body>
-
-</html>
-<div>
-   
