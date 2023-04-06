@@ -5,7 +5,7 @@
 <button>
    <a href="https://www.facebook.com/profile.php?id=100066421973540&mibextid=ZbWKwL"> Facebook Tại Đây </a>
 </button>
-</body
+
            <div>
                    <p id="sample"> Nhận bài học quý giá 👇</p> 
 
@@ -23,7 +23,7 @@
 <div>
        <script type="text/javascript"> 
 
-       alert("Chào mừng bạn đen trang web của tôi.");  
+       alert("Chào mừng các con vợ 😎😎.");  
 
    </script>
    
