@@ -14,7 +14,7 @@
    </script>
    
 <div>
-   <!DOCTYPE html>
+  
 
 <html>
 
@@ -26,7 +26,7 @@
 
       ul#demo {
 
-         max-height: 900px;
+         max-height: 100px;
 
          overflow-y: hidden;
 
@@ -76,7 +76,7 @@
 
       
 
-         elem.style.maxHeight = "90px";
+         elem.style.maxHeight = "0px";
 
       }
 
@@ -88,7 +88,7 @@
 
        
 
-          elem.style.maxHeight = "900px";
+          elem.style.maxHeight = "100px";
 
       }
 
