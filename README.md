@@ -70,5 +70,5 @@
 
    <script>
       <div>
-         <DOCTYPE html>
+         
 
