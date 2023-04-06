@@ -13,7 +13,26 @@
 
    </script>
    
+<div>
+   <style type="text/css">
 
+      h1, p {
+
+         font-family: Times New Roman;
+
+         color: red;	
+
+      }
+
+   </style>
+
+</head>
+
+<body>
+
+   <h1> Nghe nhạc chơi 😘</h1>
+
+</body>
 <div>
 
    
