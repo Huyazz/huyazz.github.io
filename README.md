@@ -125,6 +125,11 @@
 </html>
    <div>
       <button>
+         p {
+
+         color: black;
+
+      }
       <a class="button-tiktok mt-2" style="color: #fff;" href="https://www.tiktok.com/@ab980kkw" title="Nick Tik Tok Cùi " rel="nofollow">
 
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-tiktok" viewBox="0 0 16 16">
