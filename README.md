@@ -144,6 +144,84 @@
       
 </a>
          </button>
+      <div>
+         Đây là một ví dụ đơn giản về game cày sức mạnh với ngôn ngữ lập trình Python:
+
+```python
+
+import random
+
+health = 100
+
+attack_power = 10
+
+enemy_health = random.randint(50, 100)
+
+enemy_attack_power = random.randint(5, 15)
+
+print("You are starting with", health, "health")
+
+print("The enemy is starting with", enemy_health, "health")
+
+while health > 0 and enemy_health > 0:
+
+    print("-" * 20)
+
+    print("Select your move:")
+
+    print("1. Attack")
+
+    print("2. Heal")
+
+    choice = input("Enter your choice (1 or 2): ")
+
+    if choice == "1":
+
+        print("You attacked the enemy!")
+
+        enemy_health -= attack_power
+
+        print("The enemy's health is now", enemy_health)
+
+        print("The enemy attacked you!")
+
+        health -= enemy_attack_power
+
+        print("Your health is now", health)
+
+    elif choice == "2":
+
+        print("You healed yourself!")
+
+        health += random.randint(10, 20)
+
+        print("Your health is now", health)
+
+        print("The enemy attacked you!")
+
+        health -= enemy_attack_power
+
+        print("Your health is now", health)
+
+    else:
+
+        print("Invalid choice, please select 1 or 2.")
+
+print("-" * 20)
+
+if health <= 0:
+
+    print("You lost the game!")
+
+else:
+
+    print("You won the game!")
+
+```
+
+Trong ví dụ này, người chơi bắt đầu với 100 điểm máu và tấn công với sức mạnh là 10 điểm. Kẻ địch có 1 lượng máu khởi đầu ngẫu nhiên trong khoảng từ 50 đến 100 điểm và có tấn công với sức mạnh từ 5 đến 15 điểm.
+
+Trò chơi sẽ chạy trong một vòng lặp while cho đến khi một trong hai bên không còn điểm máu. Trong mỗi lượt, người chơi được yêu cầu chọn một hành động: tấn công hoặc hồi máu. Khi tấn công, người chơi sẽ giảm điểm máu của kẻ địch theo mức tấn công của mình và bị mất điểm máu phản công theo mức tấn công của kẻ địch. Khi hồi máu, người chơi sẽ tăng điểm máu của mình một lượng ngẫu nhiên từ 10 đến 20 điểm và bị mất điểm máu phản công như lượt tấn công.
       
       
       
