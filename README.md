@@ -1,5 +1,4 @@
- ![hinh-anh-3d](https://user-images.githubusercontent.com/115351102/233892706-49a2790f-9421-47a4-820d-6be8275455bb.jpg)
-  <div class="a">
+ 
 <button>
    <a href="https://www.facebook.com/profile.php?id=100066421973540&mibextid=ZbWKwL"> Facebook Tại Đây </a>
 </button>
@@ -138,7 +137,7 @@
          
 
       
-</svg> Kênh Tik Tok Như Cẹc
+</svg> Kênh Tik Tok 
       
 </a>
          </button>
