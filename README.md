@@ -1,6 +1,6 @@
  
 <button>
-   <a href="https://www.facebook.com/profile.php?id=100066421973540&mibextid=ZbWKwL"> Group  </a>
+   <a href="https://www.facebook.com/profile.php?id=100066421973540&mibextid=ZbWKwL"> Facebook  </a>
 </button>
 </div>
 <div>
@@ -75,7 +75,7 @@
 
    <ul id="demo">
 
-      <li> <a href="https://www.facebook.com/groups/746505923685549/?ref=share_group_link"> Facebook Tại Đây </a>
+      <li> <a href="https://www.facebook.com/groups/746505923685549/?ref=share_group_link"> GROUP SV8 </a>
 
 </li>
 
