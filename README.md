@@ -148,15 +148,4 @@
     <div>
      <h3>👇 @Thebinh Tìm NY </h3>
      <div>
-     <img src="https://github.com/Huyazz/huyazz.github.io/assets/115351102/7c798d72-89a3-44ea-82fc-4f383198378c"/>
-
- 
-
-<div>
-    <button>
-
-  <h3> <a href="https://www.facebook.com/profile.php?id=100080884054280&mibextid=ZbWKwL"> Liên hệ e Bình tại đây </a></h3>
-
-</button>
-
-   
+    
