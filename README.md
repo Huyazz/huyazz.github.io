@@ -92,7 +92,56 @@
    <p> Click <b>Ẩn</b> (Biến mất) <b>Hiển thị</b> xem nội dung. </p>
 
    <script>
+<div>
+ <!DOCTYPE html>
 
+<html>
+
+<head>
+
+	<title>Nơi lưu thông tin đăng ký và đăng nhập</title>
+
+</head>
+
+<body>
+
+	<h1>Nơi lưu thông tin đăng ký và đăng nhập</h1>
+
+	<form action="submit.php" method="post">
+
+		<label for="username">Tên đăng nhập:</label>
+
+		<input type="text" id="username" name="username"><br><br>
+
+		<label for="password">Mật khẩu:</label>
+
+		<input type="password" id="password" name="password"><br><br>
+
+		<label for="email">Email:</label>
+
+		<input type="email" id="email" name="email"><br><br>
+
+		<input type="submit" value="Đăng ký">
+
+	</form>
+
+	<form action="login.php" method="post">
+
+		<label for="username">Tên đăng nhập:</label>
+
+		<input type="text" id="username" name="username"><br><br>
+
+		<label for="password">Mật khẩu:</label>
+
+		<input type="password" id="password" name="password"><br><br>
+
+		<input type="submit" value="Đăng nhập">
+
+	</form>
+
+</body>
+
+</html>
       function slideUp() {
 
          var elem = document.getElementById("demo");
