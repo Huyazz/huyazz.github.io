@@ -1,4 +1,38 @@
- 
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>Đăng ký tài khoản</title>
+
+</head>
+
+<body>
+
+	<h1>Đăng ký tài khoản</h1>
+
+	<form action="signup.php" method="POST">
+
+		<label for="username">Tên đăng nhập:</label>
+
+		<input type="text" id="username" name="username" required><br><br>
+
+		<label for="password">Mật khẩu:</label>
+
+		<input type="password" id="password" name="password" required><br><br>
+
+		<label for="email">Email:</label>
+
+		<input type="email" id="email" name="email" required><br><br>
+
+		<button type="submit">Đăng ký</button>
+
+	</form>
+
+</body>
+
+</html> 
 <div>
        <script type="text/javascript"> 
 
