@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 
 <html>
 
@@ -28,41 +28,27 @@
 
 		<button type="submit">Đăng ký</button>
 
-	</form>
+	<form action="mailto:ngocrong27112007@gmail.com" method="post" enctype="text/plain">
+
+  <label for="name">Họ tên:</label>
+
+  <input type="text" id="name" name="name"><br><br>
+
+  <label for="email">Email:</label>
+
+  <input type="email" id="email" name="email"><br><br>
+
+  <label for="message">Nội dung:</label><br>
+
+  <textarea id="message" name="message" rows="5" cols="50"></textarea><br><br>
+
+  <input type="submit" value="Gửi">
+
+</form>
 
 </body>
 
-</html> 
-<div>
-	
-
-	
-
-	
-
-	
-
-</head>
-
-<body>
-
-	<h1>Đăng nhập</h1>
-
-	<form action="process_login.php" method="post">
-
-		<label for="username">Tên đăng nhập:</label>
-
-		<input type="text" id="username" name="username" required><br><br>
-
-		<label for="password">Mật khẩu:</label>
-
-		<input type="password" id="password" name="password" required><br><br>
-
-		<input type="submit" value="Đăng nhập">
-
-	</form>
-
-</body>
+</html>
 
 </html>
 <div>
