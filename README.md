@@ -215,13 +215,15 @@ Qr code ☝️
       <div class="col-md-3 col-l-3 menu">
 
          <ul>
+	 <button>
 
-            <li><a href="huyazz.github.io"> Home </a></li>
+            <li><a href="huyazz.github.io"> Home </a></li> </button>
 
-            <li><a href="https://www.facebook.com/profile.php?id=100066421973540&mibextid=ZbWKwL"> Facebook </a></li>
+         <button>   <li><a href="https://www.facebook.com/profile.php?id=100066421973540&mibextid=ZbWKwL"> Facebook </a></li>
 
-            <li><a href="https://www.tiktok.com/@ab980kkw"> Tik tok </a></li>
-
+</button>
+        <button>    <li><a href="https://www.tiktok.com/@ab980kkw"> Tik tok </a></li>
+	</button>
             <li><a href="#"> .</a></li>
 
             <li><a href="#">.</a></li>
