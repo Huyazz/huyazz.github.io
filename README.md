@@ -1,4 +1,5 @@
 ![IMG_UPLOAD_20230622_220633](https://github.com/Huyazz/huyazz.github.io/assets/115351102/2622e0be-3e3b-45ea-941f-9f6aaa5c088a)
+<div>
 Qr code ☝️
 
 <html>
