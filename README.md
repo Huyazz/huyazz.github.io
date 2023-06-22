@@ -240,25 +240,7 @@
 
          <div>
 
-            <h3>QR code</h3>
-
-            ![QRCODE_1687446067136](https://github.com/Huyazz/huyazz.github.io/assets/115351102/0619535a-e591-4e4c-92e3-77c35211c74b)
-
-
-            <h3> A Road </h3>
-
-            <p> This is a road covered by trees. A long road, a very long road. </p>
-
-            <img src="images/road-big.jpg" />
-
-         </div>
-
-      </div>
-
-   </div>
-
-   <header>
-
+            
       <h2> địa chỉ liên hệ </h2>
 
      <p>bynrosv81111@gmail.com</p>
@@ -282,4 +264,8 @@
 </head>
 
 <body>
+<div>
+![QRCODE_1687446067136](https://github.com/Huyazz/huyazz.github.io/assets/115351102/5d03a928-e791-42da-a779-da63d3d05bae)
+![IMG_UPLOAD_20230622_220633](https://github.com/Huyazz/huyazz.github.io/assets/115351102/7928454e-186a-4a78-a79e-e7ef29199d21)
+
 
