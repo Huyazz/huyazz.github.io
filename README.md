@@ -240,11 +240,10 @@
 
          <div>
 
-            <h3> A City </h3>
+            <h3>QR code</h3>
 
-            <p> This is a city full of lights, what a beautiful place to stay in. </p>
+            ![QRCODE_1687446067136](https://github.com/Huyazz/huyazz.github.io/assets/115351102/0619535a-e591-4e4c-92e3-77c35211c74b)
 
-            <img src="images/city.jpg" />
 
             <h3> A Road </h3>
 
