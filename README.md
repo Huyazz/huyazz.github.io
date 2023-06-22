@@ -1,4 +1,5 @@
-
+![IMG_UPLOAD_20230622_220633](https://github.com/Huyazz/huyazz.github.io/assets/115351102/2622e0be-3e3b-45ea-941f-9f6aaa5c088a)
+Qr code ☝️
 
 <html>
 
@@ -263,9 +264,5 @@
 
 </head>
 
-<body>
-<div>
-![QRCODE_1687446067136](https://github.com/Huyazz/huyazz.github.io/assets/115351102/5d03a928-e791-42da-a779-da63d3d05bae)
-![IMG_UPLOAD_20230622_220633](https://github.com/Huyazz/huyazz.github.io/assets/115351102/7928454e-186a-4a78-a79e-e7ef29199d21)
 
 
