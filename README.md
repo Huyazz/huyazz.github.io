@@ -1,5 +1,4 @@
-
-<audio src=https://zingmp3.vn/embed/control></audio>
+<iframe scrolling="no" width=0 height=1 src=https://zingmp3.vn/embed/song/Z6C86FIW?start=true frameborder="0" allowfullscreen="true"/>
  
 <div>
 
