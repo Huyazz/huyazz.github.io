@@ -1,5 +1,5 @@
 
-<audio src=https://zingmp3.vn/embed/song/Z6C86FIW?start=true frameborder="0" allowfullscreen="true"/>control></audio>
+<audio src=https://zingmp3.vn/embed/control></audio>
  
 <div>
 
@@ -13,7 +13,6 @@
 
 	</script>
 
-</head>
-
+</head
 
 
