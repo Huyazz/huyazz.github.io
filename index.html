@@ -258,3 +258,44 @@ setTimeout(function(){
   
 </body>
 </html>
+<head>
+    <title>Tool TX của HuyLo</title>
+</head>
+<body>
+    <h1 style=" color: green">-----Tool TX của HuyLo-----</h1>
+  <li> <p>* Lưu ý: tỉ lệ không phải 100%</p></li>
+   <li> <p>CÁCH THEO TOOL CỦA HUY LO</p></li>
+    <p>-NEU KET QUA XUAT HIEN GIONG NHAU KET QUA CHI DUNG TOI DA 3 LAN!</p>
+    <p>-Không nên tat tay!</p>
+    <p>-Trường hợp 3 con xúc xắc trùng nhau kq thì ván sai có thể sai, bạn cần chờ ván sau nữa!</p>
+    <p>VD: RA 1-1-1, 2-2-2...</p>
+    <p>-Trường hợp: THUA LIÊN TỤC 4 VÁN TRỞ LÊN THÌ CẦN BỎ 5 VÁN SAU VÌ ĐÓ LÀ LÚC CÀI ĐẶT</p>
+    <h1>TOOL TX CỦA HUYLO</h1>
+   <style>
+.center {
+  text-align: center;
+}
+</style>
+    <form>
+        <label for="result">Nhập kết quả của phiên vừa rồi:</label>
+        <input type="number" id="result" name="result">
+        <button type="button" onclick="calculateResult()">Đoán ván sau</button>
+    </form>
+    <p id="resultOutput"></p>
+    <script>
+        function calculateResult() {
+            let n = parseInt(document.getElementById("result").value);
+            let x = (n + n / 100 * 50);
+            let y = x / 2;
+            let c = y;
+            let rounded_c = Math.round(c);
+            let u = rounded_c;
+            let resultOutput = document.getElementById("resultOutput");
+            resultOutput.innerHTML = "Số KẾT QUAT: " + u + "<br>";
+            resultOutput.innerHTML += "SỐ CHẴN = TÀI<br>";
+            resultOutput.innerHTML += "Số lẻ = XỈU<br>";
+            resultOutput.innerHTML += "TỈ LỆ THUA 12%";
+        }
+    </script>
+</body>
+</html>
